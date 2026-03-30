@@ -8,7 +8,7 @@ I'm currently building **AetherTune Pro** an advanced, context-aware music recom
 
 I'm drawn to problems where engineering rigour and thoughtful design meet. 
 
-Off the clock, I spend time with music, from ambient to classical. I immerse myself into reading across philosophy and fiction, and thinking through the bigger questions that don't have clean answers. I avidly follow 
+Off the clock, I spend time with music, from ambient to classical. I immerse myself into reading across philosophy and fiction, and thinking through the bigger questions that don't have clean answers. 
 
 Open to internships, collaborations, and conversations about data, software, and ideas.
 
