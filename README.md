@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**yadvendra17/yadvendra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yadvendra**, an Information Technology student based in India.
 
-Here are some ideas to get you started:
+I work with **JavaScript**, **TypeScript**, and **Python** — building across the full stack with **React**, **Next.js**, **Node.js**, and **AWS**. My current focus is on **data analytics** and intelligent systems: finding meaning in data and translating it into products that feel intuitive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building **AetherTune Pro** — an advanced, context-aware music recommendation system, evolving from the original AetherTune I developed. The project sits at the intersection of data pipelines, user context modelling, and real-time personalisation.
+
+I'm drawn to problems where engineering rigour and thoughtful design meet. 
+
+Outside of code, I spend time with music — from ambient to classical — reading across philosophy and fiction, and thinking through the bigger questions that don't have clean answers.
+
+Open to internships, collaborations, and conversations about data, software, and ideas.
+
+**Let's connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yadvendra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadvendra17)
