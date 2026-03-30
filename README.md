@@ -2,13 +2,13 @@
 
 I'm **Yadvendra**, an Information Technology student based in India.
 
-I work with **JavaScript**, **TypeScript**, and **Python** — building across the full stack with **React**, **Next.js**, **Node.js**, and **AWS**. My current focus is on **data analytics** and intelligent systems: finding meaning in data and translating it into products that feel intuitive.
+I work with **JavaScript**, **TypeScript**, and **Python**, building across the full stack with **React**, **Next.js**, **Node.js**, and gradually learning **AWS**. My current focus is on **data analytics** and intelligent systems: finding meaning in data and translating it into products that feel intuitive.
 
-I'm currently building **AetherTune Pro** — an advanced, context-aware music recommendation system, evolving from the original AetherTune I developed. The project sits at the intersection of data pipelines, user context modelling, and real-time personalisation.
+I'm currently building **AetherTune Pro** an advanced, context-aware music recommendation system, evolving from the original AetherTune I developed. The project sits at the intersection of data pipelines, user context modelling, and real-time personalisation.
 
 I'm drawn to problems where engineering rigour and thoughtful design meet. 
 
-Outside of code, I spend time with music — from ambient to classical — reading across philosophy and fiction, and thinking through the bigger questions that don't have clean answers.
+Off the clock, I spend time with music, from ambient to classical. I immerse myself into reading across philosophy and fiction, and thinking through the bigger questions that don't have clean answers. I avidly follow 
 
 Open to internships, collaborations, and conversations about data, software, and ideas.
 
