@@ -2,7 +2,7 @@
 
 I'm **Yadvendra**, an Information Technology student based in India.
 
-I work with **C**, and **Python**. My current focus is on **data analytics** and intelligent systems: finding meaning in data and translating it into products that feel intuitive.
+I work with **Java**, and **Python**. My current focus is on **data analytics** and intelligent systems: finding meaning in data and translating it into products that feel intuitive.
 
 I'm currently building **AetherTune Pro**, an advanced, context-aware music recommendation system, evolving from the original AetherTune I developed along with my team. The project sits at the intersection of data pipelines, user context modelling, and real-time personalisation.
 
